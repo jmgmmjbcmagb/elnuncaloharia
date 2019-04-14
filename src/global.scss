@@ -9,3 +9,14 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+body {
+    font-family: 'Varela Round', sans-serif!important;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+* {
+    font-family: 'Varela Round', sans-serif!important;
+}
